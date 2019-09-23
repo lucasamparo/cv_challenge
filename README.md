@@ -3,7 +3,7 @@
 Senai CIMATEC, in partnership with Atos Bull, will offer a computer vision training course.
 The main requirement for applicants to this program is a solid background in programming using the C / C ++ or Python languages.
 
-To prove this knowledge, as well as the basics in Git and English, candidates should address [this challenge](challenge_1.pdf) by submitting their response via Pull Request, taking into account good programming practices.
+To prove this knowledge, as well as the basics in Git and English, candidate should address [this challenge](challenge_1.pdf) by submitting your response in a Pull Request, taking into account Best Practices for programming.
 
 ## Evaluation
 
