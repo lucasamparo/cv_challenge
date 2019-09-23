@@ -13,5 +13,5 @@ To prove this knowledge, as well as the basics in Git and English, candidate sho
 | Best Practices | 2.0 |
 | Correct Use of Git | 1.0 |
 
-Good luck to everyone.
+Good luck to everyone.<br/>
 <b>Lucas Amparo Barbosa.</b>
