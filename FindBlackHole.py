@@ -115,7 +115,7 @@ while(run):
         result = constelacao.ObterPosicaoBuracoNegro()
 
         if len(result) > 1:
-            print("Caso#" + str(i+1) + ": " +  format(result[0], '.2f') + " " + format(result[0], '.2f'))
+            print("Caso#" + str(i+1) + ": " +  format(result[0], '.2f') + " " + format(result[1], '.2f'))
         else:
             print("sem elementos")
 
