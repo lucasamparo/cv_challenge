@@ -56,7 +56,7 @@ int main()
     }
     
     /*
-    *	Setting cou with two decimals
+    *	Setting cout with two decimals places
     */
     cout << fixed << setprecision(2); 
     
