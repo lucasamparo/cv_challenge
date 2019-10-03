@@ -1,19 +1,20 @@
-# Senai CIMATEC - Atos Bull Computer Vision Formation Challenge
+# Desafio Senai 2019 - Diogo Lima
+Código criado para solucionar desafio do buraco negro do Senai CIMATEC 2019.
 
-Senai CIMATEC, in partnership with Atos Bull, will offer a computer vision training course.
-The main requirement for applicants to this program is a solid background in programming using the C / C ++ or Python languages.
+# Executando o código
 
-To prove this knowledge, as well as the basics in Git and English, candidate should address [this challenge](challenge_1.pdf) by submitting your response in a Pull Request, taking into account Best Practices for programming.
+Para executar o código, é necessário inserir um arquivo de texto na pasta "Input", com as entradas desejadas. A saída do código será
+feita através de impressões no terminal, além de a criação de um arquivo de texto (de mesmo nome do original) na pasta "output".
 
-<b>Attention:</b> You don't need to make a perfect solution to this problem. Make your attempt and prove you understood.
+A pasta já possui um arquivo base de entrada usando os valores de exemplo dados no problema.
 
-## Evaluation
+# Dependências
 
-| Task | Max. Value |
-| - | - |
-| Problem Resolution | 7.0 |
-| Best Practices | 2.0 |
-| Correct Use of Git | 1.0 |
+O Código foi escrito em Python 3, usando a IDE Visual Studio Code.
+A única dependência de biblioteca do código é a biblioteca Numpy.
 
-Good luck to everyone.<br/>
-<b>Lucas Amparo Barbosa.</b>
+# Formas alternativas de execução
+
+Um ambiente de execução rápida já está preparado no link abaixo:
+
+https://repl.it/repls/AngrySubtleEvaluation
